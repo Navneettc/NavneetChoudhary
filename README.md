@@ -2,7 +2,7 @@
 - 👀 I’m interested in food
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on data analytics
-- 📫 How to reach me on LinkedIn-->> Navneet Choudhary
+- 📫 How to reach me on LinkedIn-->> [Navneet Choudhary] (https://www.linkedin.com/in/navchoudhary/?originalSubdomain=ca)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a vegetarian 
 
