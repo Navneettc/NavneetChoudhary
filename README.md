@@ -1,4 +1,4 @@
-- 👋 Hi, I’m NavneetChoudhary
+- 👋 Hi, I’m Navneet Choudhary
 - 👀 I’m interested in food
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on data analytics
